@@ -15,6 +15,12 @@ Connect to GPIO19 a normal transistor/fet circuit and IR diode.
 
 Note that the GPIO current setting with RP2040 and Micropython is too low to connect directly an IR diode with resistor, the range is too short to be useful.
 
+# Mounting example
+
+I repurposed the shell of the original WiFi module (which was unstable and crappy). The IR diode is mounted close to the display panel of the unit.
+
+<img src="https://github.com/xyphro/YAW1F5_remote/raw/main/MountingExample.png" width=33% height=33%>
+
 # Usage
 Upload all files to your RP2040 (Raspberry Pi Pico - I use it with the wireless variant).
 
