@@ -1,6 +1,6 @@
 # YAW1F5 remote
 
-This module enables you to control a Gree Aircondition unit that get shipped with YAW1F5 remote control over infrared using RP2040 and Micropython. According to web research there are other variants like YAW1F or YAW1F2 which are *potentially* compatible too, but I cannot state this from personal experience. Also other vendors seem to resell the Gree units under different brand names.
+This module enables you to control a Gree Aircondition units, which get shipped with YAW1F5 remote control, over infrared using RP2040 and Micropython. According to web research there are other variants like YAW1F or YAW1F2 which are *potentially* compatible too, but I cannot state this from personal experience. Also other vendors seem to resell the Gree units under different brand names.
 
 I could not find anywhere an alternative, so want to share it here to make it available to everybody for their own use.
 
